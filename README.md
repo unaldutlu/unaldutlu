@@ -19,7 +19,7 @@
 ## 📈 Statistics
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="15%"/>
+ <img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="20%"/>
 </p>
 
 <p align="left">
