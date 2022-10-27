@@ -16,9 +16,8 @@
 <p align="center"><img src="./image.png"></p>
 
 <br>
-<p align="left">
 ## 📈 Statistics
-
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="15%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=unaldutlu&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaldutlu&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
