@@ -13,12 +13,13 @@
   <br>
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unaldutlu/)
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="15%"/>
+</p>
 <p align="center"><img src="./image.png"></p>
 
 <br>
-## 📈 Statistics
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="15%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=unaldutlu&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaldutlu&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaldutlu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
