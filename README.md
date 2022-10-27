@@ -16,7 +16,7 @@
 <p align="center"><img src="./image.png"></p>
 
 <br>
-📈 ## Statistics
+## 📈 Statistics
 <br>
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="20%"/>
