@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, ReactJs, Git&GitHub,...
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, ReactJs, Git&GitHub,...
 - 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 - 📝 Believes in the importance of learning new things every day.
 - ✨ A lifelong learner.
