@@ -1,31 +1,54 @@
-### Hi there 👋
+<div align="center">
 
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, ReactJs, Git&GitHub,...
-- 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
-- 📝 Believes in the importance of learning new things every day.
-- ✨ A lifelong learner.
-- 👨‍💻 Motivated to learn, grow and excel in IT industry.
-- 💬 Please feel free to reach out if you have any questions or suggestions.
-- 😄 You can show some ❤️ &nbsp; by starring some of the repositories.
-- 📫 How to reach me;
-  <br>
-  <br>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=unaldutlu@gmail.com)
-  <br>
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unaldutlu/)
+# Hi, I'm Unal Dutlu
 
-<p align="center"><img src="./image.png"></p>
+### Frontend Developer | Lifelong Learner | Team Player
 
-<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=unaldutlu&style=for-the-badge&color=0e75b6)](https://github.com/unaldutlu)
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=unaldutlu" alt="visitor counter" width="20%"/>
-</p>
+</div>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=unaldutlu&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unaldutlu&theme=chartreuse-dark" alt="my commit status" width="49%" /> 
-</p>
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaldutlu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > 
-</p>
+## About Me
+
+- I build modern, responsive, and user-friendly web interfaces.
+- I enjoy learning new technologies and applying them to real projects.
+- I value collaboration, ownership, and consistent improvement.
+- I am open to impactful frontend roles and collaborations.
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,redux,git,github,vscode" />
+</div>
+
+## Current Focus
+
+- Building production-ready frontend projects with React.
+- Deepening JavaScript, TypeScript, and Redux architecture skills.
+- Writing cleaner, maintainable UI code with strong component structure.
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unaldutlu&theme=github_dark" height="170" />
+  <img src="https://streak-stats.demolab.com?user=unaldutlu&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unaldutlu&theme=github_dark" height="170" />
+</div>
+
+## Connect With Me
+
+<div align="center">
+  <a href="mailto:unaldutlu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/unaldutlu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="./githubImage.jpeg" alt="Profile banner" width="100%" />
+</div>
